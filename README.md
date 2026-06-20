@@ -19,4 +19,4 @@ Exploratory data analysis of Citi Bike trip data using Apache Spark DataFrame AP
 ## Output
 - Aggregated datasets
 - Analytical tables
-- Exported results (CSV/JSON) dodaj i za ovaj about
+- Exported results (CSV/JSON)
